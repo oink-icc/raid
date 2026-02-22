@@ -103,7 +103,7 @@ Die extra Punkte erhöhen nur die Chancen des anderen Spielers zu gewinnen, gara
 
   <pre><code>/rnd Punkte+1 bis 100+Punkte</code></pre>
 
-  Beispiel:  
+  <strong>Beispiel:</strong>  
   Wenn du 20 Punkte hast → <code>/rnd 21-120</code>
 
 </details>
